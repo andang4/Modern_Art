@@ -1,6 +1,6 @@
 //add modern art code here
 size(500,500);
-background(0,0,0);
+background(255,255,255);
 fill(0,0,255);
 rect(0,0,40,40);
 rect(280,400,70,70);
@@ -14,7 +14,7 @@ line(100,0,100,250);
 line(500,250,100,250);
 line(200,500,200,0);
 line(500,400,0,400);
-stroke(255,255,255);
+stroke(0,0,0);
 strokeWeight(10);
 line(350,500,350,0);
 line(450,500,450,0);
